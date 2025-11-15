@@ -26,8 +26,10 @@ Users can scan Pokémon cards to view **3D Pokémon models in AR**, making it pe
 ---
 
 ## 📹 Demo Video
-Watch the AR demo video here:  
-[![AR Pokémon Demo](pokeomon%20card%20video%20(1).mp](https://www.linkedin.com/feed/update/urn:li:activity:7295775653130301440/)4)]
+
+Click below to watch the complete AR Pokémon demo:
+
+[![Watch Video](https://img.shields.io/badge/▶️_Click_to_Watch_Video-blue?style=for-the-badge)](https://www.linkedin.com/feed/update/urn:li:activity:7295775653130301440/)
 
 > ⚠️ Video is also downloadable directly from the repository.
 
