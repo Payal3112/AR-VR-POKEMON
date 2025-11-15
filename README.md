@@ -5,9 +5,9 @@
 ![GitHub LFS](https://img.shields.io/badge/Git_LFS-enabled-lightgrey)
 <img width="1500" height="962" alt="image" src="https://github.com/user-attachments/assets/e6e47d74-ef99-4c74-9a44-7591601628a2" />
 <img width="1458" height="977" alt="image" src="https://github.com/user-attachments/assets/0cc449ae-cda6-4fca-9398-2387dc2b6b54" />
-<img width="742" height="507" alt="image" src="https://github.com/user-attachments/assets/bb21d93f-6f99-414f-9af7-8515d2119eb4" />
-<img width="455" height="486" alt="image" src="https://github.com/user-attachments/assets/f3e43875-9452-452e-be50-8678c93ec794" />
-<img width="450" height="478" alt="image" src="https://github.com/user-attachments/assets/51c53624-e2da-4aa2-83ec-99388f66baca" />
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/bb21d93f-6f99-414f-9af7-8515d2119eb4" />
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/f3e43875-9452-452e-be50-8678c93ec794" />
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/51c53624-e2da-4aa2-83ec-99388f66baca" />
 
 
 
