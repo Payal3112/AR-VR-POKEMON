@@ -27,21 +27,12 @@ Users can scan Pokémon cards to view **3D Pokémon models in AR**, making it pe
 
 ## 📹 Demo Video
 Watch the AR demo video here:  
-[![AR Pokémon Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](pokeomon%20card%20video%20(1).mp4)
+[![AR Pokémon Demo]([https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](pokeomon%20card%20video%20(1).mp](https://www.linkedin.com/feed/update/urn:li:activity:7295775653130301440/)4)
 
 > ⚠️ Video is also downloadable directly from the repository.
 
 ---
 
-## 🖼 Screenshots
-
-| AR Scene | Card Tracking |
-|----------|---------------|
-| ![Charizard AR](Screenshots/scene1.png) | ![Pokemon Card](Screenshots/scene2.png) |
-
-> Replace the `Screenshots/scene1.png` and `scene2.png` with your actual images.
-
----
 
 ## ⚙️ How to Run
 
