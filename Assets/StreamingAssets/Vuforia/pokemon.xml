@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="steeliximage" size="6.000000 8.375136" />
+    <ImageTarget name="zapdosimage" size="6.000000 7.958549" />
+    <ImageTarget name="charizardimage" size="6.000000 8.284790" />
+    <ImageTarget name="exeggutorimage" size="6.000000 8.648648" />
+    <ImageTarget name="dragonite2" size="6.000000 7.868154" />
+    <ImageTarget name="dragonitepayal" size="6.000000 8.368421" />
+    <ImageTarget name="umbreoncard" size="6.000000 8.175000" />
+    <ImageTarget name="pikachucard" size="6.000000 8.711538" />
+  </Tracking>
+</QCARConfig>
