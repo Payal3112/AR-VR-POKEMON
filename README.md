@@ -16,8 +16,6 @@ Users can scan Pokémon cards to view **3D Pokémon models in AR**, making it pe
 
 ---
 
-
-
 - **Unity Version:** 2022.x
 - **Vuforia Engine:** 10.28.4
 - **Supported Platforms:** Mobile devices, AR headsets
